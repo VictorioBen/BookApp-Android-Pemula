@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RecyclerViewSubmit</string>
+    <string name="detail">Detail</string>
+    <string name="ebook">Ebook</string>
+    <string name="halaman">Halaman</string>
+    <string name="review">REVIEW</string>
+    <string name="tentang">Tentang Ebook ini :</string>
+    <string name="user">User</string>
+    <string name="Owner">Victorio</string>
+    <string name="EmailOwner">platkuning13@gmail.com</string>
+</resources>
