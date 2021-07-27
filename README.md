@@ -18,3 +18,4 @@ Syarat:
 
 Menampilkan foto diri, nama, dan email yang terdaftar di Dicoding.
 
+![Screenshot](https://user-images.githubusercontent.com/55232204/127166026-5654e321-8197-4180-a549-0feeb40afcc3.png)
